@@ -3,6 +3,12 @@
 [![Source code documentation Status](https://readthedocs.org/projects/backintime-dev/badge/?version=latest)](https://backintime-dev.readthedocs.io)
 [![Translation status](https://translate.codeberg.org/widget/backintime/common/svg-badge.svg)](https://translate.codeberg.org/engage/backintime)
 
+### [1.4.3]
+
+## [1.4.3]
+
+# [1.4.3]
+
 # Back In Time
 <sub>Copyright (C) 2008-2024 Oprea Dan, Bart de Koning, Richard Bailey,
 Germar Reitze, Taylor Raack, Christian Buhtz, Michael Büker, Jürgen Altfeld<sub>
