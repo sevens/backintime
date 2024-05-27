@@ -1,4 +1,0 @@
-[D-BUS Service]
-Name=net.launchpad.backintime.serviceHelper
-Exec=/usr/bin/python3 -Es /usr/share/backintime/qt/serviceHelper.py
-User=root
