@@ -1,6 +1,8 @@
 Back In Time
 
 Version 1.6.0-dev (development of upcoming release)
+* Fix: Copy symlink as symlink in snapshot compare (#1902) (Peter Sevens @sevens)
+       Additionally fixes a crash when comparing a snapshot with a symlink pointing to a nonexistent target.
 * ...
 
 Version 1.5.3 (2024-11-13)
