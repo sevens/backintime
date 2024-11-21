@@ -1718,7 +1718,7 @@ class MainWindow(QMainWindow):
         if sid:
             sid = '_' + sid.sid
 
-        d = TemporaryDirectory(suffix = sid)
+        d = TemporaryDirectory(prefix='backintime_', suffix = sid)
         tmp_file = os.path.join(d.name, os.path.basename(full_path))
 
         if os.path.isdir(full_path):
